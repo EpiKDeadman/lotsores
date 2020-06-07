@@ -5,8 +5,8 @@
     "1.12.2-recommended": "v1.3.5",
     "1.14.4-latest": "v1.3.5",
     "1.14.4-recommended": "v1.3.5",
-    "1.15.2-latest": "v1.4.0pre-2",
-    "1.15.2-recommended": "1.4.0pre-2",
+    "1.15.2-latest": "v1.4.0pre-3",
+    "1.15.2-recommended": "1.4.0pre-3",
   },
   "1.12.2": {
     "v1.3.5": "Now compatible with most mods! Some fixes and changes."
@@ -15,6 +15,6 @@
     "v1.3.5": "Now compatible with most mods! Some fixes and changes."
   } 
   "1.15.2": {
-    "v1.4.0pre-2": "PRERELEASE, THERE WILL BE BUGS! ONLY INSTALL THIS TO TEST UPCOMING FEATURES!"
+    "v1.4.0pre-3": "PRERELEASE, THERE WILL BE BUGS! ONLY INSTALL THIS TO TEST UPCOMING FEATURES!"
   }
 }
